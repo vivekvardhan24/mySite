@@ -1,0 +1,118 @@
+body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: serif;
+}
+h1{
+    margin: 0;
+    font-family: sacramento, cursive;
+    color: #66BFBF;
+    font-size: 5.6rem;
+    line-height: 2;
+}
+h2{
+    font-family: montserrat, sans-serif;
+    color: #66BFBF;
+    line-height: 2;
+}
+h3{
+    font-family: montserrat, sans-serif;
+    line-height: 2;
+}
+h3{
+    color: #11999E;
+}
+a{
+    color: #11999E;
+    margin: 25px;
+    font-family: montserrat, sans-serif;
+    text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
+}
+p{
+    color: #40514E;
+}
+.btn {
+    -webkit-border-radius: 11;
+    -moz-border-radius: 11;
+    border-radius: 11px;
+    font-family: montserrat, sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    background: #66BFBF;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    line-height: 10;
+}
+
+.btn:hover {
+    background: #5ae0c1;
+    background-image: -webkit-linear-gradient(top, #5ae0c1, #30cfa7);
+    background-image: -moz-linear-gradient(top, #5ae0c1, #30cfa7);
+    background-image: -ms-linear-gradient(top, #5ae0c1, #30cfa7);
+    background-image: -o-linear-gradient(top, #5ae0c1, #30cfa7);
+    background-image: linear-gradient(to bottom, #5ae0c1, #30cfa7);
+    text-decoration: none;
+  }
+
+hr{
+    height: 0px;
+    width: 5%;
+    margin: 50px auto;
+    border-style: dotted none none none;
+    border-color: #EAF6F6;
+    border-width: 10px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.top-container{
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 100px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+
+}
+.FIFA-Image{
+    width: 25%;
+    border-radius: 50%;
+    float: right;
+    margin-left: 30px;
+}
+.my-image{
+    padding-top: 100px;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+.computer-image{
+    width: 25%;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 25px;
+    line-height: 2em;
+}
+.copyright{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+}
